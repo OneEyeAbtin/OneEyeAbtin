@@ -29,4 +29,4 @@ All my chaotic energy is currently going into **ProjectDVC** (Desktop Virtual Co
 ---
 *Debugging by vibes since day one.*
 
-🎧 **Currently Looping:** [Nightvision by MUREX] *(Because you can't be a vibecoder in silence)*
+🎧 **Currently Looping:** [Nightvision by MUREX] 
