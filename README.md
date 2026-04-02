@@ -7,7 +7,7 @@ Honestly? I don't know shit about "proper" coding. My architecture is probably a
 I’m technically a Mechanical Engineering student, but I spend way too much time in code editors building things that have absolutely nothing to do with my degree. I code for the aesthetic and the vibe. Right now, my laptop's fans are screaming while I duct-tape local AI models, game hooks, and web interfaces together.
 
 ### 🛠️ What I'm Building
-All my chaotic energy is currently going into **ProjectDVC** (Desktop Virtual Companion). 
+All my energy is currently going into **ProjectDVC** (Desktop Virtual Companion). 
 
 *Fun fact: I originally named it "GGC" (Goth Girl Companion). Is it a bit edgy? Yeah. Am I owning it? Absolutely. I'm pivoting the name to DVC now, but the spirit lives on.* It's essentially a highly advanced, AI-powered Minecraft companion drone. I'm doing some borderline mad-science stuff to make it work:
 * **The "Trojan Horse" UI:** Running a custom, darkwave HTML/CSS frontend natively inside Python. 
